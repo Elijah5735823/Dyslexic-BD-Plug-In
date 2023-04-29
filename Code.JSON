@@ -13,20 +13,6 @@
     "-dplusBackgroundColorLightnessAmount": "1",
     "-dplusBackgroundColorAlpha": "0.8"
   },
-  "theme_light": {
-    "-dplusBackdrop": "url(https://i.imgur.com/3AiL3yN.png)",
-    "-dplusAccentColorHue": "320",
-    "-dplusAccentColorSaturation": "60%",
-    "-dplusAccentColorLightness": "31%",
-    "-dplusForegroundColorHueBase": "210",
-    "-dplusForegroundColorHueLinks": "197",
-    "-dplusForegroundColorSaturationAmount": "1",
-    "-dplusForegroundColorLightnessAmount": "1",
-    "-dplusBackgroundColorHue": "320",
-    "-dplusBackgroundColorSaturationAmount": "1",
-    "-dplusBackgroundColorLightnessAmount": "1",
-    "-dplusBackgroundColorAlpha": "0.8"
-  },
   "root": {
     "-dplusFontUi": "url(https://discordstyles.github.io/discord-dyslexia/src/base.css)",
     "-dplusFontBody": "url(https://discordstyles.github.io/discord-dyslexia/src/base.css)",
